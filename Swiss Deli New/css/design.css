@@ -1,0 +1,21 @@
+
+/*submit*/
+
+.prime{
+	background: #0054FF;
+	color:#ffffff;
+}
+
+.prime:hover{
+	color:#ffffff;
+}
+
+
+.negate{
+	background: #FF002C;
+	color:#ffffff;
+}
+
+.negate:hover{
+	color:#ffffff;
+}

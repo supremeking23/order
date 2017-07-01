@@ -1,0 +1,29 @@
+.active{
+    text-decoration: none;
+    color: #fff;
+    background: #E81C1C;
+
+
+    padding-left: 25px;
+}
+
+
+.active_mini{
+    background: #FF2E2E;
+    color:white;
+}
+
+
+.button-shadow{
+	
+		width: 500px;
+
+}	
+
+
+.box{
+	box-shadow: 5px 5px 5px 5px;
+	background: 
+}
+
+
