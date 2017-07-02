@@ -2,4 +2,4 @@
 ordering system
 
 
-##[View the site]( https://supremeking23.github.io/order/)
+##[View the site]( https://supremeking23.github.io/order/.)
